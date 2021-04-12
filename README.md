@@ -18,7 +18,9 @@ by this, saying to themselves: "This guy cames out of nowhere with an empty port
 Yup, but as I said before, this is not because a person never expose his work to the world that he/she has 0 competences. You may be good at drawing but never had 
 exposed your art in a public gallery, many reasons for that.
 
-Currently, I started to learn the [Rust language](https://www.rust-lang.org/), with a very interesting way to program safe programs (Ownership). But it requires a lot 
+I actually start my journey to dive in bootloaders design, writing a light standard x86 bootloader called [Seed](https://github.com/flodup/seed-bootloader), so wish me luck!
+
+Currently, I started to learn the [Rust language](https://www.rust-lang.org/), with a very interesting way to make safe programs (Ownership). But it requires a lot 
 of practising time that I can't allocate for now, focused on my project.
 
 ### 💞️ Which domain I want to work or collaborate in
