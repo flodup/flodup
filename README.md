@@ -26,3 +26,6 @@ Rather than a heavy markdown text block, here's a list of domains that I will lo
 ### 📫 How to reach me ?
 You can actually contact me on [fdgd@flodup.dev](mailto:fdgd@flodup.dev) or this Github space directly as you please.
 More communication channels are coming!
+
+### Writing
+I write some programming and web/system technologies bills on my [blog](https://flodup.github.io/), don't forget to visit it!
