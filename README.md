@@ -1,34 +1,28 @@
 # Welcome on my Github space (@flodup)
 
 ### 👀 About me & what I'm looking for here ?
-I'm a self-taught programmer for almost 10 years when writing theses lines. I came in order with C, C++, Python, Assembly, Golang and started Rust a couple of days.
-I never engaged real personnal projects but always programming for myself (on not being less complex subjects) with the aim to learn & practise a lot.
-I love to resolve or transpose human problems in a computer way.
+I'm a self-taught programmer in web and systems application domains. I love to build system chains, web apps and season it with a bit of automation.
+I work with severals languages such as **Golang, C, Python or Typescript/Javascript** and technologies like **Ansible, GitLab CI, Docker or Nginx/Traefik** 
 
-But now, I feel ready to begin and share something with the Open Source community to prove myself that I can carry on some projects to be released and re-used by 
-others.
+Some reasons pushed me to maintain a personal Github space, almost for same reason than people majority like sharing but also to discover, study and gain skills ever and ever.
 
-I'm not new to Github and git versioning system, as I'm currently an employee programmer for web backend & microservices, but this time I feel ready to
-share my experience, programming POV and heart subjects.
+I'm also a plant lovers and always happy to share tips on gardening and harvesting 😉
 
 ### 🌱 What Am I working on or learning ?
-Today, I tend to start a very challenging C project to dive in the complex subject of "How are designed operating systems?". I know most of people can be surprised
-by this, saying to themselves: "This guy cames out of nowhere with an empty portfolio and he wants to 'lay' an OS ?".
+I tend to essentially work on web technologies and systems building to found the best compromise between trivial and complex in opposition of bloated and complicated. I efforce myself to follow the well-know KISS philosophy as much I can.
 
-Yup, but as I said before, this is not because a person never expose his work to the world that he/she has 0 competences. You may be good at drawing but never had 
-exposed your art in a public gallery, many reasons for that.
+I worked on many things like a [x86 Master Boot Record](https://github.com/flodup/seed-bootloader) or funny toys like [this web application](https://github.com/flodup/triplet)
 
-I actually start my journey to dive in bootloaders design, writing a light standard x86 bootloader called [Seed](https://github.com/flodup/seed-bootloader), so wish me luck!
+My spare time is filled too with self-hosted servers with containerization trying to build a little homemade [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service)
 
-Currently, I started to learn the [Rust language](https://www.rust-lang.org/), with a very interesting way to make safe programs (Ownership). But it requires a lot 
-of practising time that I can't allocate for now, focused on my project.
+For the self-learning languages and technologies part, I jump on every language that seems interesting in matter of robustness or efficiency such as [Rust](https://www.rust-lang.org/) and some designing with [HTML5/CSS3 buddies](https://developer.mozilla.org/en-US/)
 
 ### 💞️ Which domain I want to work or collaborate in
 Rather than a heavy markdown text block, here's a list of domains that I will love to work in:
-+ Embedded systems
++ Web applications and services to improves others productivity
 + IoT for ecology and energy application
 + Computer systems (OS, kernels, etc...)
 
 ### 📫 How to reach me ?
-You can actually contact me on [f.dupont.dev@gmail.com](mailto:f.dupont.dev@gmail.com) or on Github directly.
+You can actually contact me on [fdgd@flodup.dev](mailto:fdgd@flodup.dev) or this Github space directly as you please.
 More communication channels are coming!
