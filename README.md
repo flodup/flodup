@@ -1,7 +1,7 @@
 # Welcome on my Github space (@flodup)
 
 ### 🙋‍♂️ About me & what I'm looking for here ?
-I'm a self-taught programmer in web and systems application domains. I love to build system chains, web apps and season it with a bit of automation.
+I'm a self-taught fullstack programmer in web and systems application domains. I love to build system chains, web apps and season it with a bit of automation.
 I work with severals languages such as **Golang, C, Python or Typescript/Javascript** and technologies like **Ansible, GitLab CI, Docker or Nginx/Traefik** 
 
 Some reasons pushed me to maintain a personal Github space, almost for same reason than people majority like sharing but also to discover, study and gain skills ever and ever.
